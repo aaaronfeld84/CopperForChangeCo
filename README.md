@@ -6,8 +6,8 @@ This repository contains the source code for the official Copper For Change Co. 
 The site is built using HTML, CSS, and JavaScript and is hosted using GitHub Pages.
 
 ## 🌐 Live Website
-Custom Domain: https://YOURDOMAINHERE  
-GitHub Pages URL: https://YOURUSERNAME.github.io/REPOSITORYNAME
+Custom Domain: https://mifei.co.uk  
+GitHub Pages URL: https://mifei.co.uk.github.io/CopperForChangeCo
 
 ## 📁 Project Structure
 - index.html — Main homepage
